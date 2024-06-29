@@ -1,0 +1,22 @@
+div.mt{
+    background-color: whitesmoke;
+    font-family: cursive;
+    padding: 20px;
+    padding-top: 30px;
+}
+
+.radio{
+    margin-left: 20px;
+}
+
+label{
+    margin-top: 15px;
+}
+
+label.mt-5{
+    margin-left: 45px;
+}
+
+button{
+    width: 120px;
+}

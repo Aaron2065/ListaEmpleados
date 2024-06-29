@@ -1,0 +1,23 @@
+.table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    font-weight: bolder;
+    font-family: cursive;
+    background: blue;
+    color: white;
+}
+
+.thead-dark th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
